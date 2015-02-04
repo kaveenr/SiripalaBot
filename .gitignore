@@ -1,0 +1,6 @@
+__pycache__/
+tstat
+bot.py~
+textrc.json
+config.json
+.DS_Store

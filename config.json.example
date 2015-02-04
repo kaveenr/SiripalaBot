@@ -1,0 +1,13 @@
+{
+	"auth":{
+		"a_key" :
+		"a_secret" :
+		"a_token" :
+		"aa_secret" :
+	},
+	"config":{
+		"ban_words" : [],
+		"ban_users" : [],
+		"listners" : []
+	}
+}

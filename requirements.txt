@@ -1,0 +1,2 @@
+pyOpenSSL==0.13
+tweepy==2.3.0
