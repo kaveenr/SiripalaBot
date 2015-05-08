@@ -12,7 +12,12 @@ A tweet bot with  @SiripalaBot
 4. Run it or push it to heroku
  **Run Locally**
 `python bot.py'
+
 ##Push To Heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://www.heroku.com/deploy/?template=https://github.com/KaveenR/SiripalaBot)
+
+**OR**
+
 ```
 git add .
 git add config.json -f
